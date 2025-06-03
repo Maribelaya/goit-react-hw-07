@@ -1,0 +1,18 @@
+.itemContact {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 20px;
+  padding: 10px;
+}
+.buttonDelete {
+  padding: 8px 16px;
+  background-color: rgb(235, 15, 15);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
